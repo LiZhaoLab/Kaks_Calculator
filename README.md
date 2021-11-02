@@ -15,4 +15,4 @@ sliding window analysis
 
 perl kaks_slidingwindow.pl ./example/example.alignment.fa -s1 y -k1 34 -k3 3 
 
-Please run the scripts in an Linux environment.
+Please run the scripts in a Linux environment.
