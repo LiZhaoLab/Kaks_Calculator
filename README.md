@@ -9,7 +9,7 @@ Example:
 
 Ka/Ks analysis
 
-./KaKs_Calculator2-1.0/bin/Linux/./KaKs_Calculator -i example.alignment2.fa -o example.alignment2.fa.kaks -m YN
+./KaKs_Calculator2-1.0/bin/Linux/./KaKs_Calculator -i ./example/example.alignment2.fa -o ./example/example.alignment2.fa.kaks -m YN
 
 sliding window analysis
 
